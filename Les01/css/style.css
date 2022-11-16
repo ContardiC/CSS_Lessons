@@ -1,0 +1,27 @@
+div{
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    font-family: 'Lucida Sans', sans-serif;
+    color: brown;
+}
+h2{
+    color:rgb(0,255,0);   
+}
+p{
+    color:#FFDD00;
+}
+h3{
+    color:#DDD;
+}
+h4{
+    color:rgba(220, 125, 90, 0.3);
+}
+
+h5{
+    color:hsl(147,50%,70%);
+}
+h6{
+    color:hsla(147,50%,70%,0.5);
+
+}
