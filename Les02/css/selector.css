@@ -1,0 +1,17 @@
+*{
+    font-family: Arial,sans-serif;
+}
+h1,h2{
+    color:brown;
+    font-family: 'Courier New', Courier, monospace;
+}
+#comment{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+.note{
+    color:gray;
+}
+td>a{
+    background-color:aqua;
+}
